@@ -1,0 +1,35 @@
+#color{
+	color:red;
+	border: solid;
+}
+.desk{
+	border:dashed;
+	color: blue;
+
+}
+p{
+	border:dotted;
+	color:green;
+}
+#test
+{
+	border-style: double;
+}
+#hello{
+	border-style: groove;
+}
+.hi{
+	border-style: ridge;
+}
+#id{
+	border-style: inset;
+}
+#create{
+	border-style: outset;
+}
+#central{
+	border-style: none;
+}
+#cause{
+	border-style: dotted dashed solid double; 
+}

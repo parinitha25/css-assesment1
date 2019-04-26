@@ -1,0 +1,45 @@
+#desk{
+	padding-left:75px;
+	color: red;
+}
+#depend{
+	border-style: solid;
+	padding-top: 75px;
+	border-color:blue;
+	color: green;
+}
+.head
+{
+	border-style: dashed;
+	padding-right: 75px;
+	border-color:pink;
+	color: green;
+
+}
+#link{
+	border-style: dotted;
+	padding-bottom : 75px;
+	border-color:grey;
+	color: green;
+}
+#idea{
+	border-style: dotted;
+	margin-right: 100px;
+	border-color:grey;
+	color: green;
+	
+}
+#css{
+	background-color: yellow;
+	margin-bottom : 100px;
+}
+#padding{
+	background-color: yellow;
+	margin-left: 150px;
+
+}
+#test{
+	background-color: yellow;
+	margin-top: 100px;
+
+}
